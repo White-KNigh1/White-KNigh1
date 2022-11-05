@@ -35,8 +35,11 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=white-knigh1&show_icons=true&locale=en&layout=compact&theme=radical" alt="white-knigh1" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=white-knigh1&show_icons=true&theme=radical" alt="white-knigh1" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=white-knigh1&&theme=radical" alt="white-knigh1" /></p>
+<!-- <p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=white-knigh1&show_icons=true&locale=en&layout=compact&theme=radical" alt="white-knigh1" /><br>
+ </p>
+ -->
+<p>
+  &nbsp;<img width="48%"  src="https://github-readme-stats.vercel.app/api?username=white-knigh1&show_icons=true&theme=radical" alt="white-knigh1" />
+ <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=white-knigh1&&theme=radical" alt="white-knigh1" />
+</p>
