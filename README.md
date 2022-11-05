@@ -7,13 +7,13 @@
 
 <p  >
 
-<img align="left" alt="Coding" width="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761144a79ea710d9ca23a4071a22ffd53e868f9ff393&rid=giphy.gif&ct=g">
+<img align="left" alt="Coding" width="320" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761144a79ea710d9ca23a4071a22ffd53e868f9ff393&rid=giphy.gif&ct=g">
  
   <img src="https://komarev.com/ghpvc/?username=white-knigh1&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="white-knigh1" /> 
  </br>
  </br>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=white-knigh1&theme=radical" align="right" width="450px" alt="white-knigh1" />
+     <img src="https://github-profile-trophy.vercel.app/?username=white-knigh1&theme=radical" align="right" width="650px" alt="white-knigh1" />
   </a>   
 </br>
 </br>
