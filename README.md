@@ -13,7 +13,7 @@
  </br>
  </br>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=white-knigh1&theme=radical" align="right" width="250px" alt="white-knigh1" />
+     <img src="https://github-profile-trophy.vercel.app/?username=white-knigh1&theme=radical" align="right" width="450px" alt="white-knigh1" />
   </a>   
 </br>
 </br>
