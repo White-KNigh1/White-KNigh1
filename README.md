@@ -13,7 +13,7 @@
  </br>
  </br>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=white-knigh1&theme=radical" align="right" width="500px" alt="white-knigh1" />
+     <img src="https://github-profile-trophy.vercel.app/?username=white-knigh1&theme=radical" align="right" width="505px" alt="white-knigh1" />
   </a>   
 </br>
 </br>
@@ -21,6 +21,8 @@
 </p>
 <p>
  </br>
+ </br>
+ 
  </br>
  
 - 🔭 I’m currently working on <a href="https://github.com/White-KNigh1/Virtual-Interview.git" >[ Virtual Interview ]</a>
