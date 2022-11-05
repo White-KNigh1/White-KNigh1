@@ -8,7 +8,7 @@
 <p align="right" padding : "auto"> <img src="https://komarev.com/ghpvc/?username=white-knigh1&label=Profile%20views&color=0e75b6&style=flat" alt="white-knigh1" /> 
 <img align="left" alt="Coding" width="320" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761144a79ea710d9ca23a4071a22ffd53e868f9ff393&rid=giphy.gif&ct=g">
     <br><br>
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-knigh1" alt="white-knigh1" /></a> </p></p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-knigh1" background-color="black" alt="white-knigh1" /></a> </p></p>
 <br>
 <br><br>
 - 🔭 I’m currently working on [Virtual Interview](https://github.com/White-KNigh1/Virtual-Interview.git)
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **prathamsinghkathayat@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
