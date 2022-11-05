@@ -1,9 +1,8 @@
-  [![MasterHead](https://f8n-production.s3.amazonaws.com/creators/profile/8z2uw8qyf-ezgif-com-gif-maker-1-gif-xvq6gh.gif)](https://rishavchanda.io)
  
-
-
-
 <h1 align="center">Hi 👋there, </h1>
+
+[![MasterHead](https://f8n-production.s3.amazonaws.com/creators/profile/8z2uw8qyf-ezgif-com-gif-maker-1-gif-xvq6gh.gif)](https://rishavchanda.io)
+ 
 <h3 align="center">Glad you are here ! </h3>
 
 <p align="right" padding : "auto"> <img src="https://komarev.com/ghpvc/?username=white-knigh1&label=Profile%20views&color=0e75b6&style=flat" alt="white-knigh1" /> </p>
