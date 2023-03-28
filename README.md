@@ -51,6 +51,6 @@
  </p>
  -->
 <p>
-  &nbsp;<img width="48%"  src="https://github-readme-stats.vercel.app/api?username=white-knigh1&show_icons=true&theme=radical" alt="white-knigh1" />
- <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=white-knigh1&&theme=radical" alt="white-knigh1" />
+  &nbsp;<img width="48%"  src="https://github-readme-stats.vercel.app/api?username=bePratham&show_icons=true&theme=radical" alt="bePratham" />
+ <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=bePratham&&theme=radical" alt="bePratham" />
 </p>
