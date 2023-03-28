@@ -9,11 +9,11 @@
 
 <img align="left" alt="Coding" width="315" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761144a79ea710d9ca23a4071a22ffd53e868f9ff393&rid=giphy.gif&ct=g">
  
-  <img src="https://komarev.com/ghpvc/?username=white-knigh1&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="white-knigh1" /> 
+  <img src="https://komarev.com/ghpvc/?username=bePratham&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="bePratham" /> 
  </br>
  </br>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=white-knigh1&theme=radical" align="right" width="505px" alt="white-knigh1" />
+     <img src="https://github-profile-trophy.vercel.app/?username=bePRatham&theme=radical" align="right" width="505px" alt="bePratham" />
   </a>   
 </br>
 </br>
@@ -25,7 +25,7 @@
  
  </br>
  
-- 🔭 I’m currently working on <a href="https://github.com/White-KNigh1/Virtual-Interview.git" >[ Virtual Interview ]</a>
+- 🔭 I’m currently working on <a href="https://github.com/bePratham/Virtual-Interview.git" >[ Virtual Interview ]</a>
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me **prathamsinghkathayat@gmail.com**
 </p>
